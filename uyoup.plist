@@ -19,12 +19,12 @@
       <dict>    
         <key>bundle-identifier</key>
         <!-- CHANGEME on next line -->
-        <string>com.markohr.ios.youtube</string>
+        <string>com.google.ios.youtube</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
         <!-- CHANGEME on next line -->
-        <string>uYou+</string>
+        <string>YouTube</string>
       </dict>   
     </dict> 
   </array>
